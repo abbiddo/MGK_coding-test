@@ -28,6 +28,5 @@ int main(){
         scanf("%d",&arr[i]);
         if (ma<arr[i]) ma=arr[i];
     }
-	
 	printf("%d",search(ma));
 }
