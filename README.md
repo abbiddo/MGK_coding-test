@@ -17,3 +17,6 @@ https://codemate.kr/@abbiddo/코딩테스트-4일차 <br>
 
 #### 5일차
 https://codemate.kr/@abbiddo/코딩테스트-5일차 <br>
+
+#### 6일차
+https://codemate.kr/@abbiddo/코딩테스트-6일차 <br>
