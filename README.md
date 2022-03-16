@@ -20,3 +20,6 @@ https://codemate.kr/@abbiddo/코딩테스트-5일차 <br>
 
 #### 6일차
 https://codemate.kr/@abbiddo/코딩테스트-6일차 <br>
+
+#### 7일차
+https://codemate.kr/@abbiddo/코딩테스트-7일차 <br>
